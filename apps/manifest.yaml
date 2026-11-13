@@ -1,0 +1,6 @@
+---
+id: db-downloader
+name: Db Downloader
+summary: Doundloads the db
+desc: Downloads the db with a symlink.
+author: tavdog
